@@ -1,7 +1,4 @@
-
-# [Webcam-Face-detection](https://webcam-1210.wl.r.appspot.com/)
-
-# Angular TensorFlow Webcam Face Detection
+# [Angular TensorFlow Webcam Face Detection](https://webcam-1210.wl.r.appspot.com/)
 This project demonstrates real-time face detection using TensorFlow.js in an Angular environment. It utilizes a webcam to capture video input and employs TensorFlow's pre-trained models for face detection.
 
 ![Blank board](https://github.com/tonystark20-hy/Webcam-Face-detection/assets/39941618/202b96f4-8a52-4684-bbc4-63426ba8fdee)
