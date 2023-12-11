@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Webcam-Facedetection
 
 [Angular TensorFlow Webcam Face Detection](https://webcam-1210.wl.r.appspot.com/)
@@ -29,3 +30,4 @@ This project utilizes TensorFlow.js and Angular, making it possible to perform r
 
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
+=======
