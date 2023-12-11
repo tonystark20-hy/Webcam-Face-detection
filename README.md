@@ -3,7 +3,7 @@ This project demonstrates real-time face detection using TensorFlow.js in an Ang
 
 ![Blank board](https://github.com/tonystark20-hy/Webcam-Face-detection/assets/39941618/202b96f4-8a52-4684-bbc4-63426ba8fdee)
 
-Prerequisites
+## Prerequisites
 Angular CLI should be globally installed (npm install -g @angular/cli).
 
 ng serve
@@ -13,19 +13,18 @@ Allow access to your webcam when prompted by the browser.
 
 The webcam feed will start, and the application will perform real-time face detection using TensorFlow.js.
 
-Project Structure
-src/app/ contains the Angular application files.
-src/app/components/ holds the main components of the application, including the webcam component and the face detection functionality.
-src/assets/ includes any necessary assets such as images or additional files required for the project.
+## Project Structure
+* src/app/ contains the Angular application files.
+* src/app/components/ holds the main components of the application, including the webcam component and the face detection functionality.
+* src/assets/ includes any necessary assets such as images or additional files required for the project.
 
-Resources
+## Resources
 * [TensorFlow.js](https://www.tensorflow.org/js): TensorFlow's JavaScript library for training and deploying machine learning models.
 * [Angular](https://angular.io/): Official website for the Angular framework.
 * [TensorFlow Models](https://github.com/tensorflow/models): TensorFlow's official models repository.
 
-Acknowledgments
+## Acknowledgments
 This project utilizes TensorFlow.js and Angular, making it possible to perform real-time face detection using pre-trained models. Special thanks to the TensorFlow.js and Angular communities for their resources and support.
 
-License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
-=======
