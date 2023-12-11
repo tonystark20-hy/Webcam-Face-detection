@@ -1,9 +1,9 @@
 # Webcam-Facedetection
-https://webcam-1210.wl.r.appspot.com/
-
 
 [Angular TensorFlow Webcam Face Detection](https://webcam-1210.wl.r.appspot.com/)
 This project demonstrates real-time face detection using TensorFlow.js in an Angular environment. It utilizes a webcam to capture video input and employs TensorFlow's pre-trained models for face detection.
+
+![Blank board](https://github.com/tonystark20-hy/Webcam-Facedetection/assets/39941618/edb1f47e-1ca0-4309-88d7-e4fd46596b50)
 
 Prerequisites
 Angular CLI should be globally installed (npm install -g @angular/cli).
@@ -19,6 +19,7 @@ Project Structure
 src/app/ contains the Angular application files.
 src/app/components/ holds the main components of the application, including the webcam component and the face detection functionality.
 src/assets/ includes any necessary assets such as images or additional files required for the project.
+
 Resources
 TensorFlow.js: TensorFlow's JavaScript library for training and deploying machine learning models.
 Angular: Official website for the Angular framework.
@@ -28,4 +29,3 @@ This project utilizes TensorFlow.js and Angular, making it possible to perform r
 
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
-
