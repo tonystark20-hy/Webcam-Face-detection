@@ -19,9 +19,10 @@ src/app/components/ holds the main components of the application, including the 
 src/assets/ includes any necessary assets such as images or additional files required for the project.
 
 Resources
-TensorFlow.js: TensorFlow's JavaScript library for training and deploying machine learning models.
-Angular: Official website for the Angular framework.
-TensorFlow Models: TensorFlow's official models repository.
+* TensorFlow.js: TensorFlow's JavaScript library for training and deploying machine learning models.
+* Angular: Official website for the Angular framework.
+* TensorFlow Models: TensorFlow's official models repository.
+
 Acknowledgments
 This project utilizes TensorFlow.js and Angular, making it possible to perform real-time face detection using pre-trained models. Special thanks to the TensorFlow.js and Angular communities for their resources and support.
 
